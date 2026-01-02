@@ -4,8 +4,8 @@ My work emphasizes clean code, logical problem-solving, and clear documentation.
 <b>Areas of Focus</b><br>
 > Machine Learning fundamentals and model development<br>
 > Web development with structured and maintainable code<br>
-> Core problem-solving using C, Python, and Java<br>
-<b>Current Objectives</b><br><br>
+> Core problem-solving using C, Python, and Java<br><br>
+<b>Current Objectives</b><br>
 >Build production-quality data analysis and machine learning projects<br>
 >Strengthen fundamentals in algorithms, data handling, and model evaluation<br>
 >Maintain a consistent and professional open-source portfolio<br><br>
