@@ -1,5 +1,20 @@
 #  Ravindra Vidyasagar Pandey:
-About Me<br><br>I am an engineering student with a strong interest in Data Science, Machine Learning, and Web Development, focused on building a solid technical foundation through hands-on projects and structured learning.<br><br>My work emphasizes clean code, logical problem-solving, and clear documentation. I actively practice data analysis, model building, and software fundamentals while continuously improving my programming and analytical skills.<br><br>Areas of Focus<br><br>Exploratory Data Analysis (EDA) using Python<br><br>Machine Learning fundamentals and model development<br><br>Web development with structured and maintainable code<br><br>Core problem-solving using C, Python, and Java<br><br>Writing clear and professional project documentation<br><br>Current Objectives<br><br>Build production-quality data analysis and machine learning projects<br><br>Strengthen fundamentals in algorithms, data handling, and model evaluation<br><br>Maintain a consistent and professional open-source portfolio<br><br>Professional Values<br><br>Strong emphasis on fundamentals<br><br>Continuous learning and self-improvement<br><br>Attention to clarity, structure, and correctness
+I am an engineering student with a strong interest in Data Science, Machine Learning, and Web Development, focused on building a solid technical foundation through hands-on projects and structured learning.<br>
+My work emphasizes clean code, logical problem-solving, and clear documentation. I actively practice data analysis, model building, and software fundamentals while continuously improving my programming and analytical skills.<br>
+Areas of Focus<br>
+Exploratory Data Analysis (EDA) using Python<br>
+Machine Learning fundamentals and model development<br>
+Web development with structured and maintainable code<br>
+Core problem-solving using C, Python, and Java<br>
+Writing clear and professional project documentation<br>
+Current Objectives<br>
+Build production-quality data analysis and machine learning projects<br>
+Strengthen fundamentals in algorithms, data handling, and model evaluation<br>
+Maintain a consistent and professional open-source portfolio<br>
+Professional Values<br>
+Strong emphasis on fundamentals<br>
+Continuous learning and self-improvement<br>
+Attention to clarity, structure, and correctness
 
 
 ## 🌐 Socials:
